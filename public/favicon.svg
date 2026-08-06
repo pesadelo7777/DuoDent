@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="DuoDent">
+  <path
+    fill="#a9a9ad"
+    d="M36 14h35c27 0 47 21 47 50s-20 50-47 50H36c-7 0-12-5-12-12V26c0-7 5-12 12-12Z"
+  />
+  <rect x="10" y="27" width="82" height="77" rx="16" fill="#9b3858" />
+  <path
+    fill="#fcf9f8"
+    d="M39 27h24c22 0 36 15 36 37S85 101 63 101H39c-7 0-12-5-12-12V39c0-7 5-12 12-12Z"
+  />
+</svg>
