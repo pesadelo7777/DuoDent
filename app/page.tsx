@@ -446,7 +446,7 @@ export default function Home() {
         <div><strong>Visite</strong><p>{siteConfig.address}</p></div>
         <div><strong>Converse</strong><a href={siteConfig.whatsappHref} target="_blank" rel="noreferrer">{siteConfig.whatsapp}</a><a href={siteConfig.phoneHref}>{siteConfig.phone}</a><a href={siteConfig.instagram} target="_blank" rel="noreferrer">Instagram</a></div>
         <div><strong>Profissionais</strong>{siteConfig.professionals.map((professional) => <p key={professional.id}>{professional.name}<br />{professional.cro}</p>)}</div>
-        <p className="footer-bottom">© {new Date().getFullYear()} DuoDent. Comunicação informativa, sem promessa de resultados.</p>
+        <p className="footer-bottom">© {new Date().getFullYear()} DuoDent, todos os direitos reservados.</p>
       </footer>
 
       <div className="mobile-booking-bar">
